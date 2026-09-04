@@ -41,7 +41,7 @@ For Software:
 - Languages used: Python
 - Frameworks used: tkinter
 - Libraries used: Opencv, Mediapipe, pillow
-- Tools used: Git, Github, VS code
+- Tools used: Git, Github, VS code, Antigravity
 
 For Hardware:
 - Laptop/PC
